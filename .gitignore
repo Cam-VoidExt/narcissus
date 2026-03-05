@@ -1,0 +1,12 @@
+# Ignore the narcissus executable (the product)
+narcissus.exe
+Agent.exe
+*.exe
+
+# Ignore the personal diary (the logs)
+audit.log
+*.log
+
+# Ignore OS junk
+Thumbs.db
+.DS_Store
